@@ -6,7 +6,7 @@ This repository contains sample code for the pre-print by Pentland, Tamborrino, 
 
 ## Files
 
-* *1Lniear System*: contains experiments from section 5.1 of the paper.
+* *1Linear System*: contains experiments from section 5.1 of the paper.
 * *2Nonlinear Scalar*: contains experiments from section 5.2 of the paper. 
 
 ## Authors
