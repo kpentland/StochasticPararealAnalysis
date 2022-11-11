@@ -1,6 +1,6 @@
 # Error bound analysis of the stochastic parareal algorithm
 
-This repository contains sample code for the pre-print by Pentland, Tamborrino, and Sullivan - "Error bound analysis of the stochastic parareal algorithm". Using the MATLAB scripts in each folder, one should be able to re-create the numerical results from the paper.
+This repository contains sample code for the pre-print by Pentland, Tamborrino, and Sullivan - "Error bound analysis of the stochastic parareal algorithm" (http://arxiv.org/abs/2211.05496). Using the MATLAB scripts in each folder, one should be able to re-create the numerical results from the paper.
 
 
 
